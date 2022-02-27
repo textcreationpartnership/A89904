@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the high and mighty lords, the States of Holland, concerning the Parliament and common-wealth of England; with their instructions and decree given to the Lord High-Admiral Vantrump, for the taking of all English and Scottish ships: and his resolution to fight it out to the last man, against all those who shall engage against them: together with the advancing of the King of Scots standard; his royal message to 7 Chrisitan kings and princes: and L. Col. Lilburns letter to the Lord Gen. Cromwel.</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89904</idno>
+            <idno type="STC">Wing N476</idno>
+            <idno type="STC">Thomason E659_3</idno>
+            <idno type="STC">ESTC R206698</idno>
+            <idno type="EEBO-CITATION">99865811</idno>
+            <idno type="PROQUEST">99865811</idno>
+            <idno type="VID">166107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166107)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E659[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the high and mighty lords, the States of Holland, concerning the Parliament and common-wealth of England; with their instructions and decree given to the Lord High-Admiral Vantrump, for the taking of all English and Scottish ships: and his resolution to fight it out to the last man, against all those who shall engage against them: together with the advancing of the King of Scots standard; his royal message to 7 Chrisitan kings and princes: and L. Col. Lilburns letter to the Lord Gen. Cromwel.</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166107:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The High and Mighty LORDS, THE STATES of HOLLAND, <hi>CONCERNING</hi> The Parliament and Common-wealth of England; With their Inſtructions and Decree given to the Lord High-Admiral <hi>Vaentrump,</hi> for the taking of all <hi>Engliſh</hi> and <hi>Scottiſh</hi> ſhips: And his Reſolution to fight it out to the laſt man, againſt all thoſe who ſhall engage againſt Them: To<g ref="char:EOLhyphen"/>gether with the advancing of the King of <hi>Scots</hi> Standard; his Royal <hi>Meſſage</hi> to 7 Chriſti<g ref="char:EOLhyphen"/>an Kings and Princes: And L. Col. <hi>Lilburns</hi> Letter to the Lord Gen. <hi>Cromwel.</hi>
+            </p>
+            <p>London, Printed for G. HORTON. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166107:2"/>
+            <pb n="3" facs="tcp:166107:2"/>
+            <head>THE DECLARATION Of the States of HOLLAND, Concerning the proclaiming of open Wars with the Parliament of England.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt of the 25 of March, I acquainted you with the Warlike preparations of the States Gene<g ref="char:EOLhyphen"/>ral: ſince which time they are plea<g ref="char:EOLhyphen"/>ſed to ſet forth a new Edict, prohibiting the tranſportation of any Engliſh Goods what<g ref="char:EOLhyphen"/>ſoever,
+<pb n="4" facs="tcp:166107:3"/>and have declared their diſaffection to the proceedings of the Engliſh, accaſioned by their ſeizing upon the Flemiſh Veſſels; in retaliation whereof, they have given ſtrict charge and command, that all ſhips &amp; goods whatſoever belonging to the Engliſh Nati<g ref="char:EOLhyphen"/>on, be forthwith ſeized upon; as alſo alſo the Scottiſh ſhips are detained by the Lord High-Admiral Vantrump, who hath decla<g ref="char:EOLhyphen"/>red, that according to his Commiſſion re<g ref="char:EOLhyphen"/>ceived from the high and mighty Lords, the States of Holland, he is reſolved to fight all thoſe who ſhall dare to prefume, or attempt the diſturbance of the peace and welfare of the freeborn People of the United Provin<g ref="char:EOLhyphen"/>ces, &amp;c. As for other matter of intelligence, I ſhall refer you to the incloſed, wherein is compriſed ſeveral remarkable paſſages of great concernment, which I conceived re<g ref="char:EOLhyphen"/>quiſite to preſent to publike view, viz.</p>
+            <pb n="5" facs="tcp:166107:3"/>
+            <p>The Hollander hath ſet forth a Declaration to raiſe 60000 Horſe and Foot; and 300 Sayl of ſhips; but their deſign is variouſly ſpoken of.</p>
+            <p>Yet great are the Conteſts between the Burgo<g ref="char:EOLhyphen"/>maſters and the Bores; for the latter doth threaten to ſequeſter their Eſtates, and bring them to a Tryall for their lives, if they will not take a courſe to defend and aſſiſt them at Sea. And ſome Tumults and Ri<g ref="char:EOLhyphen"/>ſings have already been in Zealand, Rotterdam, Dort, Delf, and at the Hague, where many were both ſlain and wounded, and amongſt the reſt ſome Engliſh, which the Mutiniers chiefly aymed at, who brand them with the moſt infamous Badge of Tray<g ref="char:EOLhyphen"/>tors and Conſpirators to their Religion and Liber<g ref="char:EOLhyphen"/>ties; &amp;c.</p>
+            <p>The Duke of Malta hath declared, that he will give his Royal Aſſent to the Union, and that he will raiſe forty thouſand Horſe and Foot, to joyn with the Chriſtians againſt the Turks; and in purſuance thereof hath granted a Commiſſion to Prince Fre<g ref="char:EOLhyphen"/>derick, Landgrave of Heſſe, to command in chief un<g ref="char:EOLhyphen"/>der his Highneſs Prince Philips.</p>
+            <p>It is reported, that Lieu. Col. Lilburn is made Captain of a Man of War for the States of Holland; and that he hath received Power and Inſtructions, to fire, ſink, or take, any ſhips whatſoever, that ſhall be declared Enemies to the United Provinces.</p>
+         </div>
+         <div type="account">
+            <pb n="4" facs="tcp:166107:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THere hath been a great and imperial Coun<g ref="char:EOLhyphen"/>cel held at Munſter in Germany, by the Am<g ref="char:EOLhyphen"/>baſſadors of 13 Chriſtian Kings, Princes, and Dukes; At which Diet, they took into conſidera<g ref="char:EOLhyphen"/>tion the preſent ſtate and condition of many exiled Princes; and amongſt the reſt, a Conference aroſe touching the King of Scots; but nothing done therein (at preſent) by reaſon of other weighty and emergent buſineſſes, which call them to a Work of far greater concernment; and may alſo prove fatal, if not timely prevented: For the Great Turk, and his Baſhaw have taken the field with ſeven hundred thouſand Horſe and Foot, and are reſolved (if poſſi<g ref="char:EOLhyphen"/>ble) to make a great devaſtation and inroad upon Chriſtendom this Summer: But great is the care of the Emperour of Germany, the 7 Chriſtian Princes of Italy, the Queen of Sweden, the Prince of Tran<g ref="char:EOLhyphen"/>ſilvania, and Prince Frederick of Malta, to raiſe a formidable Power, and to unite and joyn with the Venetians, both in an offenſive and defenſive War againſt the Turks; And in purſuance thereof, a League is concluding between the aforeſaid Prin<g ref="char:EOLhyphen"/>ces; who have had a large conſultation thereupon; But that which is thought moſt requiſite and feaſi<g ref="char:EOLhyphen"/>ble at preſent, is, the ſending of a Summons to all Chriſtendom, for Warlike Proviſions to be made a<g ref="char:EOLhyphen"/>gainſt
+<pb n="5" facs="tcp:166107:4"/>the Enemies thereof; And indeed great rea<g ref="char:EOLhyphen"/>ſon have they ſo to do; for never was a more po<g ref="char:EOLhyphen"/>tent and irreſiſtable Army raiſed theſe many years, as now the Turks and Janiſaries have raiſed. Yet notwithſtanding, Prince Philip (the third Son to the Queen of Bohemia, and General to the Stases of Ve<g ref="char:EOLhyphen"/>nice) hath given them a great Overthrow neer the Iſle of Candia, and kill'd, taken, and routed about threeſcore thouſand men: This Overthrow doth exceedingly retard the Enemies Deſign; and as it is a great prejudice to them, ſo it is a great advantage to Chriſtendom; And his Highneſſe Prince Philip hath embraced this opportunity; who by the aſſiſt<g ref="char:EOLhyphen"/>ance of the Divine Power, hath obtained another great Victory againſt the Janiſaries: Since which Atchievements, he is called Philip the Great; a Gen<g ref="char:EOLhyphen"/>tleman of a gallant temper, and endow'd with ex<g ref="char:EOLhyphen"/>cellent Properties and Vertues, both for prudence, wiſdom, and magnanimity of Spirit: He is even be<g ref="char:EOLhyphen"/>come as great a Terrour to the Turks, as Alexander the Great was to the Chriſtians.</p>
+            <p>The King of Scots hath ſent the Lord Wilmot with a Meſſage to the Princes of Italy, imploring Supplies and Accommodation, ſuitable to his pre<g ref="char:EOLhyphen"/>ſent Neceſſities and Condition; but they have re<g ref="char:EOLhyphen"/>turned Anſwer, That by reaſon of the home-bred
+<pb n="8" facs="tcp:166107:5"/>diviſions they cannot aſſiſt him; but promiſe fair when a feaſible opportunity ſhall ſerve: which I conjecture may come to paſs about Latter-Lam<g ref="char:EOLhyphen"/>maſs. By reaſon that we have received ſome inclina<g ref="char:EOLhyphen"/>tion that the States of Holland have declared for a Union with the Parliament of England; and have Ordered that thoſe ſhips and goods formerly ſeized on (belonging to the Engliſh) be forthwith diſ<g ref="char:EOLhyphen"/>charged and ſet at liberty. Lieut. Col. Lilburn is very active in ſtirring up the well-affected Engliſh; And ſome relate, that he hath ſent a Letter to the Lord General, puting his Exceliency in mind of his Proteſtation at Huntington; wherein he deſires him to ſtand up againſt Oppreſſion; to propogate the Goſpel; to preſerve the liberty of the People, and to maintain their juſt rights and priviledges.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
